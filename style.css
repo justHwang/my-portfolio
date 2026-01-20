@@ -1,0 +1,19 @@
+/* Dark Theme */
+body.dark {
+  background: #121212;
+  color: #eee;
+}
+
+body.dark .navbar {
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+}
+
+body.dark .project-card {
+  background: #1e1e1e;
+  border-color: #333;
+}
+
+body.dark .cta-btn {
+  background: #6c82ff;
+}
